@@ -1,5 +1,0 @@
-{{#user}}
-Name: Anshul Rawat
-Skills: HTML, CSS, JS, React js, php
-Email: anshulrawat541@gmail.com
-{{/user}}
